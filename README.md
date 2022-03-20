@@ -10,7 +10,7 @@
 
 本系统的技术环境为： JDK1.8 SpringMvc SpringSecurity SpringBoot Mysql Mybatis Thymeleaf  echarts
 
-#新增说明（一、二、三）
+# 新增说明（一、二、三）
 ## 一、管理员功能已完善
 已解决超级管理员设置问题
 ## 二、数据库个别表解析
